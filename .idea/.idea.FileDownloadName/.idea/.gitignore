@@ -1,0 +1,16 @@
+﻿# Default ignored files
+/shelf/
+/workspace.xml
+
+# Rider ignored files
+/modules.xml
+/.idea.FileDownloadName.iml
+/contentModel.xml
+/projectSettingsUpdater.xml
+
+/dataSources/
+/dataSources.local.xml
+
+/httpRequests/
+[Bb]in/
+[Oo]bj/
